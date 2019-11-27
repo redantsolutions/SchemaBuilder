@@ -76,4 +76,9 @@
     <eventHandlers>
         <eventHandler event="onApplicationLoad" component="eventHandler" persist="false"/>>
     </eventHandlers>
+    <displayObjects/>
+    <settings/>
+    <mappings/>
+    <ormCFCLocation/>
+    <customTagPaths/>
 </plugin>
